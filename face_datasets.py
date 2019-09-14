@@ -1,3 +1,4 @@
+
 import cv2
 import os
 
@@ -55,7 +56,7 @@ while(True):
     elif count>100:
         break
 
-# Stop video
+# Stops the video
 vid_cam.release()
 
 
